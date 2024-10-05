@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "pytest - All tests",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": [
+        "${workspaceFolder}/tests",
+        "-v",
+        "-s",
+        "--log-cli-level=DEBUG"
+      ],
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+        // Put your MSTEAMS WEBHOOK here.
+        "MSTEAMS_WEBHOOK": ""
+      }
+    }
+  ]
+}
