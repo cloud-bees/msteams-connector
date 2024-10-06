@@ -55,6 +55,10 @@ The package also provides CLI commands for sending messages to MS Teams.
   msteams-connector send_text --text "Hello World!" --hook_url <your_webhook_url> 
   ```
 
+### Video Instructions
+
+[![Watch the video](assets/Demo.gif)](assets/Demo.gif)
+
 ## Developer Setup
 If you want to contribute or modify the code, follow these steps to set up the project locally:
 ```sh
