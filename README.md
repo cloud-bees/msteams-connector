@@ -5,7 +5,7 @@ A Python connector for sending messages to Microsoft Teams channels via webhooks
 ![MSTeams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
 [![PyPI](https://img.shields.io/pypi/v/msteams-con?label=pypi%20package)](https://pypi.org/project/msteams-con)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/msteams-con)](https://pypi.org/project/msteams-con)
-[![GitHub CI](https://github.com/cloud-bees/msteams-connector/workflows/main.yaml/badge.svg)](https://github.com/cloud-bees/msteams-connector/actions/workflows/main.yaml)
+[![GitHub CI](https://github.com/cloud-bees/msteams-connector/actions/workflows/main.yaml/badge.svg)](https://github.com/cloud-bees/msteams-connector/actions/workflows/main.yaml)
 [![codecov](https://codecov.io/github/cloud-bees/msteams-connector/graph/badge.svg?token=77ZAL5T9Q2)](https://codecov.io/github/cloud-bees/msteams-connector)
 
 ## Overview
