@@ -57,7 +57,7 @@ The package also provides CLI commands for sending messages to MS Teams.
 
 ### Video Instructions
 
-[![Watch the video](assets/Demo.gif)](assets/Demo.gif)
+[![Watch the video](https://github.com/cloud-bees/msteams-connector/blob/main/assets/Demo.gif)]((https://github.com/cloud-bees/msteams-connector/blob/main/assets/Demo.gif))
 
 ## Developer Setup
 If you want to contribute or modify the code, follow these steps to set up the project locally:

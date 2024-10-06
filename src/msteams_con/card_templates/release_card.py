@@ -21,7 +21,9 @@ class ReleaseCard(AdaptiveCard):
       str: The generated body of the release card.
     """
     image_url = "https://www.jenkins.io/images/logos/chatterbox/chatterbox.png"
-    changelog_url = "https://github.com/cloud-bees/msteams-connector/CHANGELOG.md"
+    changelog_url = (
+      "https://github.com/cloud-bees/msteams-connector/blob/main/CHANGELOG.md"
+    )
 
     image = [
       self.image(
